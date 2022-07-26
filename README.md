@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @khalidalade2004
+- 👋 Hi, I’m khalid
 - 👀 I’m interested in frontend development
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on web application projects
